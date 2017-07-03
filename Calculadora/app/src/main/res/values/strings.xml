@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Calculadora</string>
+    <string name="_00">00</string>
+    <string name="numero2">Numero2</string>
+    <string name="numero1">Numero1</string>
+    <string name="restar">Restar</string>
+    <string name="sumar">Sumar</string>
+    <string name="dividir">Dividir</string>
+    <string name="multiplicar">Multiplicar</string>
+</resources>
